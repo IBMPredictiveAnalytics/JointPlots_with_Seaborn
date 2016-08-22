@@ -6,13 +6,13 @@ The Plots allow bivariate distributions to be visualized, using a main plot cove
 
 The following plot types are supported:
 
-__Regression__ ![image](https://raw.githubusercontent.com/IBMPredictiveAnalytics/JointPlots_with_Seaborn/master/screenshots/regression.png)
+![image](https://raw.githubusercontent.com/IBMPredictiveAnalytics/JointPlots_with_Seaborn/master/screenshots/regression.png) __Regression__ 
 
-__Scatter__ ![image](https://raw.githubusercontent.com/IBMPredictiveAnalytics/JointPlots_with_Seaborn/master/screenshots/scatter.png)
+![image](https://raw.githubusercontent.com/IBMPredictiveAnalytics/JointPlots_with_Seaborn/master/screenshots/scatter.png) __Scatter__
 
-__Hex Binning__ ![image](https://raw.githubusercontent.com/IBMPredictiveAnalytics/JointPlots_with_Seaborn/master/screenshots/hexbin.png)
+![image](https://raw.githubusercontent.com/IBMPredictiveAnalytics/JointPlots_with_Seaborn/master/screenshots/hexbin.png) __Hex Binning__ 
 
-__Kernel Density Estimation__ ![image](https://raw.githubusercontent.com/IBMPredictiveAnalytics/JointPlots_with_Seaborn/master/screenshots/kde.png)
+![image](https://raw.githubusercontent.com/IBMPredictiveAnalytics/JointPlots_with_Seaborn/master/screenshots/kde.png) __Kernel Density Estimation__ 
 
 Learn more about this implementation [from the Seaborn Documentation][4]
 
